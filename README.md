@@ -1,4 +1,6 @@
 fuzzy-shame
 ===========
 
-Ready-to-go Bootstrap boilerplate.
+Ready-to-go Flask + Bootstrap boilerplate.
+
+Uses Bootstrap CDN.
